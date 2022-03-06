@@ -62,6 +62,6 @@ Windows                   132 hrs 46 mins        █████████░�
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
-](https://www.m2dd.top/)[我的博客]("https://www.m2dd.top")	
+[<img src="https://mi-2.oss-cn-hangzhou.aliyuncs.com/public/xuenai/003.jpeg" height="100em" align="center" alt="Blog Logo" title="Blog Logo"/>](https://www.m2dd.top/)[我的博客]("https://www.m2dd.top")	
 
 > 我的邮箱：ylzlcl@163.com
