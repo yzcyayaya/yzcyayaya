@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 爱好开源, 喜欢钻研和自学相关技术,  LeetCode萌新.
 - 💼 前端会Vue + el-UI,  懂运维, 有一定的软件设计能力，六边形战士养成中,
 - 🎓 East China University of Technology.
-- 𝙸 𝚞𝚜𝚎 Ubuntu[<img src="[https://s1.ax1x.com/2022/03/06/bDpg6s.png](https://cdn.m2dd.top/blog/ubuntu_logo.png)" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://ubuntu.com/)
+- 𝙸 𝚞𝚜𝚎 Ubuntu[<img src="[https://cdn.m2dd.top/blog/ubuntu_logo.png]()" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://ubuntu.com/)
 
 
 
