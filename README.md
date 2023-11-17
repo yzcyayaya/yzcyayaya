@@ -1,6 +1,5 @@
 [![bBzIbV.gif](https://s1.ax1x.com/2022/03/06/bBzIbV.gif)](https://www.m2dd.top)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00cf00)
 <!--
 **yzcyayaya/yzcyayaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
